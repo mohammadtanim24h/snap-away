@@ -1,0 +1,13 @@
+.user-review {
+    padding: 10px 20px;
+    margin: 20px;
+}
+
+.reviewer-img img {
+    float: left;
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 20px;
+}
