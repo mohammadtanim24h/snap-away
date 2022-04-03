@@ -1,0 +1,58 @@
+[
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+      "name": "Hugh Jackman",
+      "review": "Bought this as a second camera to my DSLR for weddings but I'm now tempted to sell the DSLR and buy another one of these!! Absolutely love it. Light, sharp, captures colours beautifully, great in low light... can't fault it so far.",
+      "rating": 5,
+      "img": "https://www.top10about.com/wp-content/uploads/2018/01/Hugh-Jackman.jpg"
+    },
+    {
+      "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+      "name": "Tom Cruise",
+      "review": "It took me 3 months to research, as I was buying my first full frame camera. After spending hours and hours I finally decided to go for this Camera, I love the features and performance of this camera. worth it!!!",
+      "rating": 4.6,
+      "img": "https://www.top10about.com/wp-content/uploads/2018/01/Tom-Cruise.jpg"
+    },
+    {
+      "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+      "name": "Chris Hemsworth",
+      "review": "love my camera. Focus so good. Quality amazing! A bit complicated, but found a lot information. And very high video quality.",
+      "rating": 5,
+      "img": "https://www.top10about.com/wp-content/uploads/2018/01/Chris-Hemsworth.jpg"
+    },
+    {
+      "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+      "name": "Henry Cavill",
+      "review": "The Camera really does live up to its legend. It's level of quality and performance mixed with its flexibility to do almost anything in any situation makes it a truly special tool for people who just want to tell great stories really well!.",
+      "rating": 4,
+      "img": "https://www.top10about.com/wp-content/uploads/2018/01/Henry-Cavill.jpg"
+    },
+    {
+      "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+      "name": "Chris Evans",
+      "review": "I bought this camera month ago and I'm in love. Great performance, quality, light and handy.",
+      "rating": 4.5,
+      "img": "https://www.top10about.com/wp-content/uploads/2018/01/Chris-Evans-e1572365423439.jpeg"
+    },
+    {
+      "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+      "name": "Leonardo Dicaprio",
+      "review": "Haven't used it much but first impressions are that it is a great step up from my previous camera.",
+      "rating": 4.5,
+      "img": "https://www.top10about.com/wp-content/uploads/2018/01/Leonardo-Dicaprio.jpg"
+    },
+    {
+      "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+      "name": "Robert Downey Jr.",
+      "review": "Good features,Good autofocus,quality really good. Complicated menu,wish ergonomics would be better. Good in low light situations what is perfect for me for night street photography.",
+      "rating": 4,
+      "img": "https://www.top10about.com/wp-content/uploads/2018/01/Robert-Downey-Jr.jpg"
+    },
+    {
+      "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+      "name": "Johnny Depp",
+      "review": "Always wanted a full frame camera, I was not disappointed camera performs very well and very easy to operate.",
+      "rating": 5,
+      "img": "https://www.top10about.com/wp-content/uploads/2018/01/Johnny-Deep.jpg"
+    }
+]
