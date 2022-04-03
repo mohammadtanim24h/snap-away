@@ -1,0 +1,36 @@
+.banner-section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+    align-items: center;
+}
+
+.banner-img img {
+    width: 70%;
+}
+
+.sub-title {
+    display: inline-block;
+    background-clip: text;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, #FD297A, #9424F0);
+}
+
+.demo-btn {
+    outline: 0;
+    border: 1px solid #9652e4;
+    padding: 10px 20px;
+    background-image: linear-gradient(90deg, #cf3b76, #822de4);
+    color: white;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    transition: .3s;
+    font-weight: bold;
+}
+
+.demo-btn:hover {
+    background-image: none;
+    color: #822de4;
+    background-color: #fff;
+}
