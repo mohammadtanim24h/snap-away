@@ -12,11 +12,11 @@ const Home = () => {
                     <h3 className="display-4 fw-normal sub-title">
                         The Best There Is
                     </h3>
-                    <p className="lead">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque ea autem inventore, saepe dicta placeat aliquam delectus magnam exercitationem, esse voluptate eum sequi quia dolor est corporis neque odit quidem!</p>
+                    <p>Capture the best shots of your life and peaks of more decisive moments with our newly developed Camera. Far superior than the previous gen. Provides much sharper images. With 4k Capability and Stabilization, this is a beast everyone wants.</p>
                     <button className="demo-btn">Live Demo</button>
                 </div>
                 <div className="banner-img">
-                    <img className="img-fluid" src={banner} alt="" />
+                    <img className="img-fluid" src={banner} alt="camera" />
                 </div>
             </div>
         </Container>

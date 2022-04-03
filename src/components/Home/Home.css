@@ -17,6 +17,12 @@
     background-image: linear-gradient(90deg, #FD297A, #9424F0);
 }
 
+.banner-section p {
+    font-size: 18px;
+    letter-spacing: 1px;
+    color: rgb(37, 48, 59);
+}
+
 .demo-btn {
     outline: 0;
     border: 1px solid #9652e4;
