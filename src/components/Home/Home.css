@@ -40,3 +40,13 @@
     color: #822de4;
     background-color: #fff;
 }
+
+@media screen and (max-width: 480px) {
+    .banner-section {
+        grid-template-columns: 1fr;
+    }
+    .titles {
+        order: 2;
+        margin: 20px 0;
+    }
+}

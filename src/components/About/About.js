@@ -9,8 +9,8 @@ const About = () => {
             </div>
             <div className="text-center">
                 <h3 className="display-6 my-3">Visit Our Social Media</h3>
-                <button className="btn btn-outline-primary px-4 py-2 mx-2"><i class="fa-brands fa-facebook me-2"></i>Facebook</button>
-                <button className="btn btn-outline-primary px-4 py-2 mx-2"><i class="fa-brands fa-twitter me-2"></i>Twitter</button>
+                <button className="btn btn-outline-primary px-4 py-2 mx-2 my-3"><i class="fa-brands fa-facebook me-2"></i>Facebook</button>
+                <button className="btn btn-outline-primary px-4 py-2 mx-2 my-3"><i class="fa-brands fa-twitter me-2"></i>Twitter</button>
             </div>
         </div>
     );

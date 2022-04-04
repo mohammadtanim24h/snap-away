@@ -12,3 +12,10 @@ nav a {
     text-transform: uppercase;
     font-family: 'Roboto', sans-serif;
 }
+
+@media screen and (max-width: 480px) {
+    nav a {
+        margin: 5px;
+        font-size: 14px;
+    }
+}
