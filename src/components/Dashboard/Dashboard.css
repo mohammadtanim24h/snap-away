@@ -1,14 +1,11 @@
 .chart-container {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-}
-
-.chart-title {
-    margin-left: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 @media screen and (max-width: 480px) {
     .chart-container {
-        grid-template-columns: 1fr;
+        flex-direction: column;
     }
 }
