@@ -11,3 +11,14 @@
     object-fit: cover;
     margin-right: 20px;
 }
+
+.rating {
+    display: flex;
+    align-items: center;
+}
+
+.rating .fa-star {
+    color: rgb(255, 196, 0);
+    font-size: 14px;
+    margin-left: 8px;
+}

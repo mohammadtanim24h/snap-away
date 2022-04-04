@@ -11,7 +11,14 @@ const Review = ({ review }) => {
             <div className="reviewer-details">
                 <h3 className="text-secondary">{name}</h3>
                 <p className="lead">{userReview}</p>
-                <p className="lead">Rating: {rating}</p>
+                <p className="lead rating">
+                    Rating: {rating}
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                </p>
             </div>
         </div>
     );
