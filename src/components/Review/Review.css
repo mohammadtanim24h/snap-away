@@ -22,3 +22,10 @@
     font-size: 14px;
     margin-left: 8px;
 }
+
+@media screen and (max-width: 480px) {
+    .reviewer-img img {
+        width: 80px;
+        height: 80px;
+    }
+}
