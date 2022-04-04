@@ -1,0 +1,21 @@
+.not-found {
+    margin-top: 60px;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.not-found-text {
+    order: 2;
+}
+
+.error-img img{
+    width: 400px;
+}
+
+@media screen and (max-width: 480px){
+    .not-found {
+        flex-direction: column;
+    }
+}
