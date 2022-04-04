@@ -13,7 +13,7 @@ const Home = () => {
         <Container>
             <div className="banner-section my-4">
                 <div className="titles">
-                    <h3 className="display-4">Your Next Camera</h3>
+                    <h3 className="display-4">Perfection For All</h3>
                     <h3 className="display-4 fw-normal sub-title">
                         The Best Out There
                     </h3>
