@@ -4,7 +4,6 @@ import useChart from "../../hooks/useChart";
 
 const RevenueAreaChart = () => {
     const chart = useChart();
-    console.log(chart);
     return (
         <div>
             <h2 className="text-secondary chart-title">Investment Vs Revenue</h2>
