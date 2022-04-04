@@ -23,7 +23,7 @@
     color: rgb(37, 48, 59);
 }
 
-.demo-btn {
+.demo-btn, .see-reviews-btn {
     outline: 0;
     border: 1px solid #9652e4;
     padding: 10px 20px;
@@ -31,11 +31,11 @@
     color: white;
     border-radius: 5px;
     font-size: 1.1rem;
-    transition: .3s;
+    transition: .5s;
     font-weight: bold;
 }
 
-.demo-btn:hover {
+.demo-btn:hover, .see-reviews-btn:hover {
     background-image: none;
     color: #822de4;
     background-color: #fff;

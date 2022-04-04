@@ -6,7 +6,7 @@ const Review = ({ review }) => {
     return (
         <div className="user-review shadow">
             <div className="reviewer-img">
-                <img src={img} alt="" />
+                <img className="img-fluid" src={img} alt="" />
             </div>
             <div className="reviewer-details">
                 <h3 className="text-secondary">{name}</h3>
